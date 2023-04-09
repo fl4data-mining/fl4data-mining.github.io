@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FL4Data-Mining@KDD2023</title>
+    <link>https://fl4data-mining.github.io/</link>
+    <description>Recent content on FL4Data-Mining@KDD2023</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://fl4data-mining.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terms &amp; Conditions</title>
+      <link>https://fl4data-mining.github.io/terms-and-conditions/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fl4data-mining.github.io/terms-and-conditions/</guid>
+      <description>1. Definitions We collect certain identifying personal data when you sign up to our Service such as your name, email address, PayPal address (if different from email address), and telephone number. The personal data we collect from you is disclosed only in accordance with our Terms of Service and/or this Privacy Policy.Conclude collects Slack account and access information from Users for the purposes of connecting to the Slack API and to authenticate access to information on the Conclude website.</description>
+    </item>
+    
+    <item>
+      <title>Call for Submissions</title>
+      <link>https://fl4data-mining.github.io/calls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fl4data-mining.github.io/calls/</guid>
+      <description>Submission Guideline Important Dates  Paper submissions: May 23rd, 2023 Paper notifications: June 23rd, 2023 Workshop date: August 7th, 2023.  Workshop Scope: By hosting this workshop at SIGKDD, we hope to promote the development of federated learning as a scientific field and encourage data mining researchers and practitioners to collaborate on this important research topic. We envision the workshop will bring in an overall advancement of FL and broaden its impact in the data mining research and industrial community, while FL has become an increasingly important tool for data mining in recent years.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://fl4data-mining.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fl4data-mining.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keynote Speakers</title>
+      <link>https://fl4data-mining.github.io/speakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fl4data-mining.github.io/speakers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organizers</title>
+      <link>https://fl4data-mining.github.io/organizers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fl4data-mining.github.io/organizers/</guid>
+      <description>Workshop Committees  Junyuan Hong, Michigan State University  </description>
+    </item>
+    
+    <item>
+      <title>Schedules</title>
+      <link>https://fl4data-mining.github.io/schedules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fl4data-mining.github.io/schedules/</guid>
+      <description>Workshop Schedule (Pacific Timezone)  Time Event Event --   08:30 am - 8:45 am  Opening Ceremony   08:45 - 09:15 am  Keynote Talk 1   09:15 - 9:45am  Keynote Talk 2   9:45 - 10:15am  Keynote Talk 3   10:15 am - 10:45 am  Keynote Talk 4   10:45 am - 11:15 am  Keynote Talk 5   11:15 am - 11:45 am  Lunch Break   11:45 pm - 13:30 pm  Poster Presentation   13:00 pm - 14:00 pm  Panel Discussion   14:00 pm - 14:30 pm  Award Ceremony and Clossing Session    </description>
+    </item>
+    
+  </channel>
+</rss>

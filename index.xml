@@ -15,6 +15,15 @@
     </item>
     
     <item>
+      <title>Accepted Papers</title>
+      <link>https://fl4data-mining.github.io/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fl4data-mining.github.io/papers/</guid>
+      <description>Oral  Is Normalization Indispensable for Multi-domain Federated Learning?. Weiming Zhuang, Lingjuan Lyu Distributed Personalized Empirical Risk Minimization. Yuyang Deng, Mohammad Mahdi Kamani, Pouria Mahdavinia, Mehrdad Mahdavi  Poster  Once-for-All Federated Learning: Learning From and Deploying to Heterogeneous Clients. Kamala Varma, Enmao Diao, Tanya Roosta, Jie Ding, Tao Zhang SparseVFL: Communication-Efficient Vertical Federated Learning Based on Sparsification of Embeddings and Gradients. Yoshitaka Inoue, Hiroki Moriya, Qiong Zhang, Kris Skrinak Optimization of User Resources in Federated Learning for Urban Sensing Applications.</description>
+    </item>
+    
+    <item>
       <title>Call for Submissions</title>
       <link>https://fl4data-mining.github.io/calls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
